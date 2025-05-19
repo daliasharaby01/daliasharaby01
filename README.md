@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">CS Student.<br>Frontend  Developer .</p>
+<p align="left">CS Student.<br>Frontend  Developer .<br>My passion for web and artificial intelligence, I am looking for opportunities to develop innovative projects that combine these two fields.</p>
 
 ###
 
