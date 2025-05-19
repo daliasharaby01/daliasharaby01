@@ -30,6 +30,6 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain"  />
+<img align="center" height="150" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain"  />
 
 ###
