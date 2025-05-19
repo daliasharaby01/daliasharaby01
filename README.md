@@ -1,8 +1,13 @@
+
 <h1 align="left">Hi 👋! My name is Dalia Sharaby...</h1>
 
 ###
 
-<h2 align="left">CS Student and Frontend Developer..</h2>
+<h2 align="left">📍 About me</h2>
+
+###
+
+<p align="left">CS Student.<br>Frontend  Developer .</p>
 
 ###
 
@@ -38,6 +43,8 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain"  />
+<div align="left">
+  <img height="200" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain"  />
+</div>
 
 ###
