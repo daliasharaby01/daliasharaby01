@@ -6,6 +6,10 @@
 
 ###
 
+<h3 align="left">Languag:-</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
   <img width="20" />
@@ -13,6 +17,10 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
 </div>
+
+###
+
+<h3 align="left">Connect With Me:-</h3>
 
 ###
 
@@ -30,6 +38,6 @@
 
 ###
 
-<img align="center" height="150" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain"  />
+<img align="right" height="150" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain"  />
 
 ###
