@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain"  />
+  <img height="200" src="c:\Users\lap\Downloads\A logo design for a female programmer with a bold and strong personality, inspired by anime. The design should include programming elements like code or CS symbols, but avoid overly feminine or girly styles. Use a mo.png"  />
 </div>
 
 ###
