@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 About Me
-I am a passionate **Front-end Developer**
+I am a CS Student, passionate **Front-end Developer**
 
 - 🔭 **I’m currently working on:** Refining my Front-end projects and exploring Aerospace Tech.
 - 🌱 **I’m currently learning:** **Next.js** and **UI/UX Design** to build more scalable and user-centric apps.
@@ -22,16 +22,16 @@ I am a passionate **Front-end Developer**
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
 
 ## 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalia-sharaby-6668722b0)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dalia.sharaby.39)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daliasharaby01?igsh=anBqemx2OGp0eHVk)
+[
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Daliamoh01)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharabydalia26@gmail.com)
 
+
+<div align="left">
+  <img height="200" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain"  />
+</div>
+
+###
