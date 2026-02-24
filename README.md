@@ -1,9 +1,11 @@
 # Hi there, I'm Dalia Sharaby! 👋
 ### Front-end Developer 
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=daliasharaby01&label=Profile%20views&color=0e75b6&style=flat" alt="dalia-sharaby" />
-</p>
+<br>
+
+<div align="center">
+  <img height="200" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain"  />
+</div>
 
 ## 🚀 About Me
 I am a CS Student, passionate **Front-end Developer**
@@ -28,10 +30,6 @@ I am a CS Student, passionate **Front-end Developer**
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharabydalia26@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Daliamoh01)
 
-<br>
 
-<div align="left">
-  <img height="200" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain"  />
-</div>
 
 ###
