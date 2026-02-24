@@ -33,5 +33,5 @@ I am a passionate **Front-end Developer**
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:إيميلك_هنا)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Dalia's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daliasharaby01&show_icons=true&theme=radical" alt="Dalia's GitHub Stats" />
 </p>
