@@ -25,10 +25,10 @@ I am a CS Student, passionate **Front-end Developer**
 
 ## 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalia-sharaby-6668722b0)
-[
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Daliamoh01)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharabydalia26@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Daliamoh01)
 
+<br>
 
 <div align="left">
   <img height="200" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain"  />
