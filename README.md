@@ -2,7 +2,7 @@
 ### Front-end Developer 
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="dalia-sharaby" />
+ <img src="https://komarev.com/ghpvc/?username=daliasharaby01&label=Profile%20views&color=0e75b6&style=flat" alt="dalia-sharaby" />
 </p>
 
 ## 🚀 About Me
@@ -29,8 +29,8 @@ I am a passionate **Front-end Developer**
 ---
 
 ## 📬 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](رابط_لينكد_إن_بتاعك)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:إيميلك_هنا)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalia-sharaby-6668722b0)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharabydalia26@gmail.com)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daliasharaby01&show_icons=true&theme=radical" alt="Dalia's GitHub Stats" />
