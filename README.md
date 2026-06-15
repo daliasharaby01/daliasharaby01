@@ -1,5 +1,5 @@
 # Hi there, I'm Dalia Sharaby! 👋
-### Front-End Developer 🚀
+### Front-End Developer 💻
 
 <br>
 
@@ -7,25 +7,25 @@
   <img height="220" src="https://th.bing.com/th/id/OIP.mWrhpl_IbpIZc9gfDMx-DwHaHa?rs=1&pid=ImgDetMain" style="border-radius: 50%;" />
   
   <p align="center">
-    <em>"Building scalable, responsive web experiences where creative design meets powerful software engineering."</em>
+    <em>"Writing clean, efficient code and building scalable web applications driven by solid logic."</em>
   </p>
 </div>
 
 ---
 
 ## 🚀 About Me
-I am a Computer Science student, passionate **Front-End Developer**, I bridge the gap between user-centric design principles and robust frontend architecture to deliver complete digital solutions.
+I am a Computer Science student and a dedicated **Front-End Developer**. I focus on writing clean frontend architecture, optimizing web performance, and building responsive, user-friendly applications. I back up my development skills with a strong foundation in logic and **Problem Solving** (Competitive Programming).
 
-- 🔭 **Current Focus:** Refining production-ready web apps and solving algorithmic challenges.
-- 💡 **Interests:** Deeply interested in Problem Solving (Competitive Programming) and exploring innovative Tech sectors.
-- 🌱 **Learning Journey:** Advancing my skills in **Next.js** 
-- ⚡ **My Philosophy:** Independent, driven, and committed to continuous professional growth.
+- 🔭 **Current Focus:** Leveling up my software engineering skills and building production-ready web apps.
+- ⚙️ **Core Skills:** Writing semantic, maintainable code and solving algorithmic challenges.
+- 🌱 **Learning Journey:** Currently expanding my technical stack with **Next.js** and advanced frontend patterns.
+- ⚡ **Fun Fact:** I approach building complex web layouts with the same analytical mindset used to crack programming problems.
 
 ---
 
-## 🛠️ My Tech Stack & Tools
+## 🛠️ Technical Stack & Tools
 
-### 💻 Front-End Development
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,8 +34,7 @@ I am a Computer Science student, passionate **Front-End Developer**, I bridge th
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🎨 Design & Version Control
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### ⚙️ Version Control & Environments
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
