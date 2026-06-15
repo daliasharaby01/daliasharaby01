@@ -1,5 +1,5 @@
 # Hi there, I'm Dalia Sharaby! 👋
-### Front-End Developer & UI/UX Designer 🚀
+### Front-End Developer 🚀
 
 <br>
 
@@ -14,11 +14,11 @@
 ---
 
 ## 🚀 About Me
-I am a Computer Science student, passionate **Front-End Developer**, and **UI/UX Designer**. I bridge the gap between user-centric design principles and robust frontend architecture to deliver complete digital solutions.
+I am a Computer Science student, passionate **Front-End Developer**, I bridge the gap between user-centric design principles and robust frontend architecture to deliver complete digital solutions.
 
 - 🔭 **Current Focus:** Refining production-ready web apps and solving algorithmic challenges.
 - 💡 **Interests:** Deeply interested in Problem Solving (Competitive Programming) and exploring innovative Tech sectors.
-- 🌱 **Learning Journey:** Advancing my skills in **Next.js** and master-level **UI/UX Case Studies**.
+- 🌱 **Learning Journey:** Advancing my skills in **Next.js** 
 - ⚡ **My Philosophy:** Independent, driven, and committed to continuous professional growth.
 
 ---
